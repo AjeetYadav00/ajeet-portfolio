@@ -1,2 +1,2 @@
 # ajeet-portfolio
-This is a demo from Github class
+This is a demo from Github class.
